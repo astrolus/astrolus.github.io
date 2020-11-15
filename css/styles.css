@@ -56,9 +56,14 @@ nav {
     z-index: 0;
 }
 
-#educationbody {
-    margin: 0 auto;
-    width: 75%;
+.navi {
+    font-size: 30%;
+}
+
+.bodyImage {
+    float: right;
+    width: 35vw;
+    margin: 10px;
 }
 
 #navibar {
