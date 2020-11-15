@@ -1,6 +1,6 @@
 body
 {
-    background-color: #D8CBC7;
+    background-color: #dfdfdf;
 }
 
 h1
@@ -27,6 +27,10 @@ p {
     font-size: large;
 }
 
+nav {
+    background-color: #343434;
+}
+
 @font-face {
     font-family: 'Railway';
     src: url();
@@ -50,17 +54,6 @@ p {
 {
     background-image: url('images/IMG_2486.jpg');
     z-index: 0;
-}
-
-.workexperience
-{
-    z-index: 2;
-}
-
-#googlecontactform {
-    margin: 0 auto; 
-    width: 75vw; 
-    text-align: center;
 }
 
 #educationbody {
