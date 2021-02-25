@@ -1,0 +1,72 @@
+body
+{
+    background-color: #dfdfdf;
+}
+
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+#noborderrad{
+    border-radius: 0px;
+}
+
+.animoji-avatar {
+    width: 50%;
+    height: 50%;
+}
+
+p {
+    font-size: large;
+}
+
+nav {
+    background-color: #343434;
+}
+
+@font-face {
+    font-family: 'Railway';
+    src: url();
+}
+
+.social-media-icon
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.bgimage
+{
+    filter: blur(5px);
+}
+
+.backgroundimage-we
+{
+    background-image: url('images/IMG_2486.jpg');
+    z-index: 0;
+}
+
+.navi {
+    font-size: 30%;
+}
+
+.bodyImage {
+    float: right;
+    width: 35vw;
+    margin: 10px;
+}
+
+#navibar {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
